@@ -1,6 +1,3 @@
 # AlvarezRamisDavid.github.io
 Pàgina web.
-Desde consola falta meter estos comandos en github desktop, pero no se como hacerlo.
-$# git add --all
-$# git commit -m "Initial commit"
-$# git push -u origin master
+He intentat això y no me ha anat be crec, https://pages.github.com/.
